@@ -1,0 +1,11 @@
+C:\Users\whOo\Desktop\workout\dotnet\TestApp\TestApp.Models\bin\Debug\net8.0\TestApp.Models.deps.json
+C:\Users\whOo\Desktop\workout\dotnet\TestApp\TestApp.Models\bin\Debug\net8.0\TestApp.Models.dll
+C:\Users\whOo\Desktop\workout\dotnet\TestApp\TestApp.Models\bin\Debug\net8.0\TestApp.Models.pdb
+C:\Users\whOo\Desktop\workout\dotnet\TestApp\TestApp.Models\obj\Debug\net8.0\TestApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whOo\Desktop\workout\dotnet\TestApp\TestApp.Models\obj\Debug\net8.0\TestApp.Models.AssemblyInfoInputs.cache
+C:\Users\whOo\Desktop\workout\dotnet\TestApp\TestApp.Models\obj\Debug\net8.0\TestApp.Models.AssemblyInfo.cs
+C:\Users\whOo\Desktop\workout\dotnet\TestApp\TestApp.Models\obj\Debug\net8.0\TestApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\whOo\Desktop\workout\dotnet\TestApp\TestApp.Models\obj\Debug\net8.0\TestApp.Models.dll
+C:\Users\whOo\Desktop\workout\dotnet\TestApp\TestApp.Models\obj\Debug\net8.0\refint\TestApp.Models.dll
+C:\Users\whOo\Desktop\workout\dotnet\TestApp\TestApp.Models\obj\Debug\net8.0\TestApp.Models.pdb
+C:\Users\whOo\Desktop\workout\dotnet\TestApp\TestApp.Models\obj\Debug\net8.0\ref\TestApp.Models.dll
